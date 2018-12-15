@@ -1,0 +1,28 @@
+h1{
+    color: black;
+    font-style: bold;
+    font-size: 12mm;
+    background-color: rgb(133, 155, 216);
+    width: 85%;
+    height: 100%;
+}
+body{
+    background-color: lavender;
+}
+div{
+    background-color: rgb(133, 155, 216);
+    height: 40%;
+    position: absolute;
+    width: 95%;
+}
+h2{
+    color: black;
+}
+h3{
+    color: black;
+}
+button{
+    color: black;
+    position: relative;
+    background-color: gold;
+}
