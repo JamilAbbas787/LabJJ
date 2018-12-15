@@ -10,7 +10,7 @@ h1{
     border-color: black;
 }
 body{
-    background-color: lavender;
+    background-color: rgb(91, 91, 128);
 }
 div{
     background-color: rgb(133, 155, 216);
@@ -44,6 +44,11 @@ button{
     text-align: left;
     font-size: 3mm;
     font-style: italic;
-    
+}
+
+.video{
+    text-align: center;
+    position: relative;
 
 }
+
